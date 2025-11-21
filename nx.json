@@ -1,4 +1,17 @@
 {
-  "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudId": "691fc9442d436b16263a6f65"
+    "$schema": "./node_modules/nx/schemas/nx-schema.json",
+    "nxCloudId": "691fc9442d436b16263a6f65",
+    "plugins": [
+        {
+            "plugin": "@nx/webpack/plugin",
+            "options": {
+                "buildTargetName": "build",
+                "serveTargetName": "serve",
+                "previewTargetName": "preview",
+                "buildDepsTargetName": "build-deps",
+                "watchDepsTargetName": "watch-deps",
+                "serveStaticTargetName": "serve-static"
+            }
+        }
+    ]
 }

@@ -3,12 +3,19 @@ node_modules/
 dist/
 build/
 tmp/
-.nx/cache/
 .nx/workspace.json.lock
+dist/
+tmp/
+.nx/
+.nx/cache/
+.nx/workspace-data/
+
 
 # Environment variables ?
 
+
 # Logs ?
+*.log
 
 # OS
 .DS_Store
