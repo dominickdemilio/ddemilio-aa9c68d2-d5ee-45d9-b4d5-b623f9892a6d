@@ -22,3 +22,5 @@ tmp/
 
 # Other
 package-lock.json
+
+.angular
