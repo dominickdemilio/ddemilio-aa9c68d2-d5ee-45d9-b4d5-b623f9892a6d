@@ -1,0 +1,17 @@
+# Node / Nx
+node_modules/
+dist/
+build/
+tmp/
+.nx/cache/
+.nx/workspace.json.lock
+
+# Environment variables ?
+
+# Logs ?
+
+# OS
+.DS_Store
+
+# Other
+package-lock.json

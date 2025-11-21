@@ -1,0 +1,21 @@
+{
+  "name": "ddemilio-aa9c68d2-d5ee-45d9-b4d5-b623f9892a6d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nx/angular": "^22.1.0",
+    "@nx/eslint": "^22.1.0",
+    "@nx/jest": "^22.1.0",
+    "@nx/js": "^22.1.0",
+    "@nx/nest": "^22.1.0",
+    "nx": "22.1.0"
+  },
+  "nx": {}
+}
